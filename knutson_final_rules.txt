@@ -1,0 +1,28 @@
+================================================================================
+||                                                                            ||
+||                                                                            ||
+||  Rules of Battleship                                                       ||
+||                                                                            ||
+||  Battleship is a game played on a 10X10 grid.                              ||
+||                                                                            || 
+||  The player places seven (7) ships on the board:                           ||
+||   1x Aircraft Carrier   5 spaces long                                      ||
+||   1x Battleship         4 spaces long                                      ||
+||   1x Cruiser            3 spaces long                                      ||
+||   2x Destroyer          2 spaces long                                      ||
+||   2x Subs               1 space  long                                      ||
+||                                                                            ||
+||  The computer then starts to guess spaces on the board.                    ||
+||  Hits are marked with an X misses with a /.                                ||
+||  When all the spaces of a ship are marked with X it is considered sunk.    ||
+||                                                                            ||
+||  If the computer manages to sink all the ships with open spaces left,      ||
+||   the computer wins.                                                       ||
+||                                                                            || 
+||  If all the open spaces are guessed and there are unsunk ships,            ||
+||   the player wins.                                                         || 
+||                                                                            ||
+|| Good Luck!                                                                 || 
+||                                                                            ||   
+================================================================================
+  <Press Enter to Return to Main Menu>
